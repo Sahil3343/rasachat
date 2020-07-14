@@ -23,6 +23,8 @@ responses:
   utter_expert_AI:
   - text: That's a great choice! Following are the details related to our expert mentoring
       in the field of AI.
+  utter_help_af_advice:
+  - text: If you need more clarification, I am right here for helping.
 actions:
 - utter_greet
 - utter_cheer_up
@@ -32,3 +34,4 @@ actions:
 - utter_iamabot
 - utter_mentoring
 - utter_expert_AI
+- utter_help_af_advice
