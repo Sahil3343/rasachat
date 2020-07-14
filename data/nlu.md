@@ -38,3 +38,8 @@
 - expert mentoring please
 - expert mentoring
 - mentoring
+- i need expert mentoring
+
+## intent:expert_AI
+- AI
+- Artificial Intelligence 

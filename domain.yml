@@ -10,6 +10,7 @@ intents:
 - mood_unhappy
 - bot_challenge
 - q_mentoring
+- expert_AI
 responses:
   utter_greet:
   - text: Hello! Welcome to abc! How can I help you with today?
@@ -19,6 +20,9 @@ responses:
   - text: I am a bot, powered by Rasa.
   utter_mentoring:
   - text: Sure, may I know in which domain are you looking for expert mentoring?
+  utter_expert_AI:
+  - text: That's a great choice! Following are the details related to our expert mentoring
+      in the field of AI.
 actions:
 - utter_greet
 - utter_cheer_up
@@ -27,3 +31,4 @@ actions:
 - utter_goodbye
 - utter_iamabot
 - utter_mentoring
+- utter_expert_AI
