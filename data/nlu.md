@@ -42,4 +42,4 @@
 
 ## intent:expert_AI
 - AI
-- Artificial Intelligence 
+- Artificial Intelligence
